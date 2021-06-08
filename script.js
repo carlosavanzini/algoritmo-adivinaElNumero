@@ -6,7 +6,6 @@ console.log(numeroRandom);
 let intentos = 0;
 //declaro varible
 let numeroUsuario;
-let intentos;
 
 // codigo
 do {
