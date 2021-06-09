@@ -1,6 +1,5 @@
 //asignamos a la variable numero un numero randon 
 let numeroRandom = Math.round(Math.random()*100);
-console.log(numeroRandom);
 
 //declaro varible e inicializo para un contador de veces
 let intentos = 0;
